@@ -1,4 +1,7 @@
 # intro
+![image](https://github.com/user-attachments/assets/2480eac9-03e7-4941-be4f-ca0179de337b)
+
+
 Agile --  req gathering(user story) -> analysis --> design (Db-er diagram , app- uml(usecase diagram) -> implementation  
 Junit(functional testing) --> QA & devops -->testing--> deployment --> maintanance
 

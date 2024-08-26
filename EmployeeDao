@@ -6,4 +6,5 @@ public interface EmployeeDao {
    public void createFTEEmployee(Employee employee);
    public void createPTEmployee(Employee employee);
    public void viewEmployee();
+   //njbhbhgvgfg
 }
